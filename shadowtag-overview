@@ -1,1 +1,43 @@
+These notes are also posted here for your convenience:
+    - 
 
+1. Screen Recording attached for the initial first time user flow. LINK
+
+Video summary in this order:
+    - Launch, first run users see the Welcome screen
+    - Quick UI feature reveal
+        1. Create Content: Drag in folders from finder, auto-create playlists
+            - Show Detect Tools used as a batch process
+            - Set colors (Finder Tags)
+            - Add markers
+            - Save: Intercepted by upsell dialog. Show app store flow to upgrade, complete save.
+
+2. A description of the app's purpose, including the problem it solves and the value it provides its intended audience:
+
+Overview:
+    ShadowTag is a professional audio and video metadata editor for macOS. It reads and writes every major standard in one unified interface: ID3v2, Vorbis, MP4, BEXT, iXML, XMP, Universal Category System (UCS) and Finder Tags. Drag in folders to build instant, persistent playlists; files stay in place. Finder Tags sync directly with macOS. The built-in player offers waveform view, loop regions, Audio Unit plug-ins, and video playback. On-device analysis (no cloud needed) covers EBU R128 loudness, BPM, musical key, sound-classification keywords, and UCS category suggestions — multi-threaded across every CPU core. Every playback, organizing, and analysis feature is free. 
+
+    Who is it for?
+        - For the consumer - free version: 
+            Very insightful way to listen, view and organize your music collections. While it shares the playlist functionality of something like Apple Music, the ability to see directly into the metadata and waveform of what you are listening to opens up a new perspective on the music or sounds. You can still edit your metadata with the free version but the edits stay in system. The (in-app purchase) paid version unlocks writing to individual files.
+
+        - For the professional - paid version: 
+            ShadowTag Pro unlocks metadata writing, batch format conversion, CSV and image export, and UCS filename renaming
+
+            Built for sound designers, sample library owners, and post-production teams who need complete, accurate metadata across large collections of audio files. Formats such as wave broadcast extension and iXML aren't well supported in professional audio applications at a price point that most can afford. ShadowTag fills the gap between expensive tools like Soundminer or Wavelab and free (but limited in functionality) tools like Kid3 or BWFMetaEdit.
+
+- Background: Built by Ryan Francesconi (https://ryanfrancesconi.com/), a Portland-based musician and developer with 30 years in audio software. While new to the modern App Store under his personal name, he's the author of DAWBridge https://apps.apple.com/us/app/dawbridge/id1620198313?mt=12 as well as the Audio Design Desk software suite (which is now reached end of life).
+
+
+3. Instructions for accessing and reviewing the app's main features:
+    - Launch, first run users see the Welcome screen. (This screen can be seen again at a later date from the Help menu)
+    -
+    -
+    -
+
+
+5. Describe any regional differences in the app’s features or content, or confirm that the app functions consistently across all regions.
+    - ShadowTag is localized for 11 languages: English (primary), German, Spanish, French, Italian, Japanese, Korean, Dutch, Portuguese, Russian, and Chinese Simplified.
+    - There is no functional difference between any region and localization is complete for all application text, dialogs and menus.
+    - The help manual is loaded in a web view from: https://spongefork.com/shadowtag/help/ -- this still needs full localization but will be added.
+        - Note: The in app help manual viewer doesn't allow navigation outside of the /shadowtag/help directory.

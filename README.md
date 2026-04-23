@@ -3,6 +3,6 @@ appreciated in its architecture or its use. It's a realization of [The Glass Bea
 
 I have weathered many system changes, limitations, transitions and deprecations. As you know, things have suddenly changed. This is different. Sometimes this feels more like sculpting software than writing it. I don't feel that speed is always a boon - there is value in slowness. It's hard to say yet if the inevitable atrophy is moving towards entropy. Seems likely.
 
-Currently, I'm working independently to [create software systems](https://spongefork.com/shadowtag) that inspire me to craft, but also interest to me to utilize as hand tools for my own compositions. Many components will be open sourced here. I don't know how much meaning sharing software has at this point, but community will still matter -- no matter how things are assembled/disassembled from now on.
+Regardless, I'm working independently to [create software systems](https://spongefork.com/shadowtag) that inspire me to craft, but also interest to me to utilize as hand tools for my own compositions. Many components will be open sourced here. I don't know how much meaning sharing software has at this point, but community will still matter -- no matter how things are assembled/disassembled from now on.
 
 

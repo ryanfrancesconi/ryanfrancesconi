@@ -1,1 +1,1 @@
-I started hacking audio code in the mid 90s. Needless to say, things have changed. Lately, I'm working independently to [create software systems](https://spongefork.com/shadowtag)s that inspire me to craft, but also to utilize as hand tools for my own compositions. 
+I started hacking audio code in the mid 90s. Needless to say, things have changed. Lately, I'm working independently to [create software systems](https://spongefork.com/shadowtag) that inspire me to craft, but also to utilize as hand tools for my own compositions. 
